@@ -4,4 +4,4 @@
 
 Technologies Used: Core Java (Swing & AWT)
 Database Used: MySQL
-IDE used: VS CODE
+IDE used:Netbeans
